@@ -22,41 +22,41 @@ Malewicz posts videos about design on his [YouTube channel](https://www.youtube.
 
 ### Helena Zhang's iconography series
 
-[Foundations of Iconography](https://uxdesign.cc/foundations-of-iconography-f95d7233a3e6) (Article)
-[Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) (Article)
-[5 Ways to Create a Settings Icon](https://minoraxis.medium.com/5-ways-to-create-a-settings-icon-fff8dc95e36d) (Article)
-[Icon Grids & Keylines Demystified](https://minoraxis.medium.com/icon-grids-keylines-demystified-5a228fe08cfd) (Article)
-[Pixel Snapping in Icon Design](https://uxdesign.cc/pixel-snapping-in-icon-design-a-rendering-test-6ecd5b516522) (Article)
+- [Foundations of Iconography](https://uxdesign.cc/foundations-of-iconography-f95d7233a3e6) (Article)
+- [Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) (Article)
+- [5 Ways to Create a Settings Icon](https://minoraxis.medium.com/5-ways-to-create-a-settings-icon-fff8dc95e36d) (Article)
+- [Icon Grids & Keylines Demystified](https://minoraxis.medium.com/icon-grids-keylines-demystified-5a228fe08cfd) (Article)
+- [Pixel Snapping in Icon Design](https://uxdesign.cc/pixel-snapping-in-icon-design-a-rendering-test-6ecd5b516522) (Article)
 
 ### Popular Icon Packs
 
-[Feather Icons](https://feathericons.com/) by Cole Bemis (MIT, Open-source)
-[Phosphor Icons](https://phosphoricons.com/) by Helena Zhang and Tobias Fried (MIT, Open-source)
-[Unicons](https://iconscout.com/unicons) (Fremium)
-[Google's Material Icons](https://fonts.google.com/icons) (Apache 2.0, Open-source)
-[Untitled UI Icons](https://www.untitledui.com/icons) (Freemium)
-[Hero Icons 2.0](https://heroicons.com/) (MIT, Open-source)
-[Iconoir](https://iconoir.com/) (MIT, Open-source)
+- [Feather Icons](https://feathericons.com/) by Cole Bemis (MIT, Open-source)
+- [Phosphor Icons](https://phosphoricons.com/) by Helena Zhang and Tobias Fried (MIT, Open-source)
+- [Unicons](https://iconscout.com/unicons) (Fremium)
+- [Google's Material Icons](https://fonts.google.com/icons) (Apache 2.0, Open-source)
+- [Untitled UI Icons](https://www.untitledui.com/icons) (Freemium)
+- [Hero Icons 2.0](https://heroicons.com/) (MIT, Open-source)
+- [Iconoir](https://iconoir.com/) (MIT, Open-source)
 
 ### Other
 
-[IconJar](https://www.geticonjar.com/) (Paid application for managing icon packs)
+- [IconJar](https://www.geticonjar.com/) (Paid application for managing icon packs)
 
 ## Design Systems & UI Kits
 
-[Untitled UI's Figma UI Kit](https://www.untitledui.com/) (Freemium)
-[Adobe's Spectrum](https://spectrum.adobe.com/) (Free but IDK about the license)
-[IBM's Carbon Design System](https://carbondesignsystem.com/) (Apache 2.0, Open-Source)
-[GitHub's Primer Design System](https://primer.style/) (MIT, Open-Source) (see https://primer.style/design/ for interface guidelines)
-[MUI](https://mui.com/) by Material UI (Paid) (see https://mui.com/design-kits/ for design kits)
-[Google's Material UI 3](https://m3.material.io/) (Free)
-[Uber's Baseweb](https://baseweb.design/) (MIT, Open-Source)
+- [Untitled UI's Figma UI Kit](https://www.untitledui.com/) (Freemium)
+- [Adobe's Spectrum](https://spectrum.adobe.com/) (Free but IDK about the license)
+- [IBM's Carbon Design System](https://carbondesignsystem.com/) (Apache 2.0, Open-Source)
+- [GitHub's Primer Design System](https://primer.style/) (MIT, Open-Source) (see https://primer.style/design/ for interface guidelines)
+- [MUI](https://mui.com/) by Material UI (Paid) (see https://mui.com/design-kits/ for design kits)
+- [Google's Material UI 3](https://m3.material.io/) (Free)
+- [Uber's Baseweb](https://baseweb.design/) (MIT, Open-Source)
 
 ## Other resources
 
-[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools#design-inspiration) by GoAbstract (GitHub list)
-[Laws of UX](https://lawsofux.com/) by Jon Yablonski (Website)
-[Google Fonts](https://fonts.google.com/) (all fonts are open-source)
+- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools#design-inspiration) by GoAbstract (GitHub list)
+- [Laws of UX](https://lawsofux.com/) by Jon Yablonski (Website)
+- [Google Fonts](https://fonts.google.com/) (all fonts are open-source)
 
 ## Design Tokens
 
@@ -68,8 +68,8 @@ Over the past year, big corporations have rapidly shifted towards a methodology 
 
 Below, I have included a list of resources to understand design tokens. You can also refer to the design systems themselves that incorporate design tokens to see how they are used in practice.
 
-[Introduction to Design Tokens](https://www.w3.org/groups/cg/design-tokens) by Louis Chenais (Article)
-[A Beginner's Guide to Design Tokens](https://uxdesign.cc/a-beginners-guide-to-design-tokens-191e90fac9c8) by Steve Dennis (Article)
-[Naming Design Tokens](https://uxdesign.cc/naming-design-tokens-9454818ed7cb) by Lukas Oppermann (Article)
-[The hardest part about building dark mode is that people think it’s easy](https://www.youtube.com/watch?v=1DTnojio89Y) by the Figma team at Config 2022 (YouTube Video)
-[Design Tokens Format Module (Draft)](https://tr.designtokens.org/format/) by the Design Tokens Community Group
+- [Introduction to Design Tokens](https://www.w3.org/groups/cg/design-tokens) by Louis Chenais (Article)
+- [A Beginner's Guide to Design Tokens](https://uxdesign.cc/a-beginners-guide-to-design-tokens-191e90fac9c8) by Steve Dennis (Article)
+- [Naming Design Tokens](https://uxdesign.cc/naming-design-tokens-9454818ed7cb) by Lukas Oppermann (Article)
+- [The hardest part about building dark mode is that people think it’s easy](https://www.youtube.com/watch?v=1DTnojio89Y) by the Figma team at Config 2022 (YouTube Video)
+- [Design Tokens Format Module (Draft)](https://tr.designtokens.org/format/) by the Design Tokens Community Group
