@@ -12,7 +12,7 @@ Access Apple's Human Interface Guidelines via [this link](https://developer.appl
 
 This is a great channel for those more proficient in UI/UX design. Along with insights on her product design career, Femke also posts videos on her design process and dealing with product managers. Her channel can be found [here](https://www.youtube.com/femkedesign). Furthermore, she also provides paid memberships to her design community on superpeer. You can find more information regarding this [here](https://www.femke.design/community). 
 
-## # Michal Malewicz 
+## Michal Malewicz 
 
 Malewicz is a UI/UX designer with tons of experience, designing interfaces since the early 2000s. He is a founder of [Hype4](https://hype4.com/), a design studio for digital products. He is known for kickstarting some of the most popular UI trends, including neumorphism, glassmorphism, Aurora UI.
 
